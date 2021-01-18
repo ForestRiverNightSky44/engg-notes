@@ -22,3 +22,4 @@ a_k = (2/T) * Integration{from 0 to T}(f(x)*cos(2*pi*k*x/T))
 
 b_k = (2/T) * Integration{from 0 to T}(f(x)*cos(2*pi*k*x/T))
 
+---
