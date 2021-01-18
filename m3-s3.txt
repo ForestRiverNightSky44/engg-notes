@@ -1,0 +1,24 @@
+============================================================
+fourier series
+------------------------------------------------------------
+
+representing periodic function 
+
+as
+
+sum of sine and cosine functions
+
+---
+
+periodic function
+
+repeats at regular intervals
+
+---
+
+f(x) = (a_0 / 2) + summation{from 1 to inf.}(a_k  * (cos(2*pi*k*x/T))) + summation{from 1 to inf.}(b_k * sin(2*pi*k*x/T))
+
+a_k = (2/T) * Integration{from 0 to T}(f(x)*cos(2*pi*k*x/T))
+
+b_k = (2/T) * Integration{from 0 to T}(f(x)*cos(2*pi*k*x/T))
+

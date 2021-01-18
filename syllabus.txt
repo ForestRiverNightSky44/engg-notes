@@ -1,0 +1,15 @@
+m3-s3
+
+- fourier series
+- laplace transform
+- partial differential equation
+- complex variables
+- statistics
+
+fm-s4
+
+- properties of fluid
+- fluid kinematics
+- fluid dynamics
+- laminar flow
+- dimensional analysis
